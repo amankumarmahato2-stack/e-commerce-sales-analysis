@@ -1,0 +1,20 @@
+Order_ID,Product,Quantity,Price,Month
+1001,Wireless Mouse,2,24.99,January
+1001,USB-C Cable,3,9.99,January
+1002,Mechanical Keyboard,1,79.99,January
+1003,Laptop Stand,1,39.99,January
+1004,Wireless Mouse,1,24.99,February
+1004,Webcam,1,54.99,February
+1005,USB-C Cable,4,9.99,February
+1006,Mechanical Keyboard,1,79.99,February
+1007,Webcam,2,54.99,March
+1008,Laptop Stand,1,39.99,March
+1008,USB-C Cable,2,9.99,March
+1009,Wireless Mouse,3,24.99,March
+1010,Mechanical Keyboard,1,79.99,March
+1011,USB-C Cable,5,9.99,April
+1012,Webcam,1,54.99,April
+1012,Wireless Mouse,2,24.99,April
+1013,Laptop Stand,2,39.99,April
+1014,Mechanical Keyboard,2,79.99,April
+1015,Wireless Mouse,1,24.99,April
